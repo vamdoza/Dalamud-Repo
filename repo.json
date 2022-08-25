@@ -1,7 +1,7 @@
 [
   {
     "Author": "Paissa Heavy Industries",
-    "Name": "Telesto",
+    "Name": "Temp_Telesto",
     "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
     "InternalName": "Telesto",
     "AssemblyVersion": "0.9.5.0",
@@ -11,7 +11,7 @@
     "Tags": [
       "telesto", "prrp", "trigger", "triggernometry", "meow"
     ],
-    "DalamudApiLevel": 6,
+    "DalamudApiLevel": 7,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 0,
@@ -19,26 +19,5 @@
     "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.5.0/Telesto_0_9_5_0.zip",
     "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.5.0/Telesto_0_9_5_0.zip",
     "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Telesto/releases/download/v0.9.5.0/Telesto_0_9_5_0.zip"
-  },
-  {
-    "Author": "Paissa Heavy Industries",
-    "Name": "Where's Mouse?",
-    "Description": "An accessibility plugin to help you locate your mouse cursor when you need it the most.",
-    "InternalName": "WheresMouse",
-    "AssemblyVersion": "0.9.1.0",
-    "RepoUrl": "https://github.com/paissaheavyindustries/WheresMouse",
-    "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/wheresmouse.png",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "mouse", "accessibility", "meow"
-    ],
-    "DalamudApiLevel": 6,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdated": 0,
-    "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v0.9.1.0/WheresMouse_0_9_1_0.zip",
-    "DownloadLinkTesting": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v0.9.1.0/WheresMouse_0_9_1_0.zip",
-    "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/WheresMouse/releases/download/v0.9.1.0/WheresMouse_0_9_1_0.zip"
   }
 ]
